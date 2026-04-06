@@ -1,3 +1,3 @@
 function sayHello() {
-  alert("Hello! Website is working!");
+  alert("起動成功 🚀");
 }
